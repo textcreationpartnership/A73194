@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant new songe of a iouiall tinker to a pleasant new tune, called, Fly brasse.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73194</idno>
+            <idno type="STC">STC 22920.3</idno>
+            <idno type="STC">ESTC S5338</idno>
+            <idno type="EEBO-CITATION">39960829</idno>
+            <idno type="OCLC">ocm 39960829</idno>
+            <idno type="VID">150433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73194)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant new songe of a iouiall tinker to a pleasant new tune, called, Fly brasse.</title>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for I. Trundle,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[ca. 1616]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.)</note>
+                  <note>Contains three woodcut illus.</note>
+                  <note>Right half sheet contains: The Second Part of the iouiall Tinker. To the same tune.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150433:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A pleaſant new Songe of a iouiall Tinker.</head>
+            <opener>To a pleaſant new tune, called, Fly Braſſe.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>There was a iouiall <hi>Tinker</hi>
+                  </l>
+                  <l>dwelt in the towne of <hi>Thurbie,</hi>
+                  </l>
+                  <l>And he could mende a Kettle well,</l>
+                  <l>but his humors were but ſcuruie.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Tara ra ring tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Roome for a iolly drinker:</hi>
+                     </l>
+                     <l>
+                        <hi>He would ſtop one hole, and make two,</hi>
+                     </l>
+                     <l>
+                        <hi>was not this a iouiall Tinker.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He was as good a fellow</l>
+                  <l>as <hi>Smugge,</hi> which made much laughter:</l>
+                  <l>Full little would you thinke that in his drinke,</l>
+                  <l>he would beat both his Wife and Daughter.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Tara ra ring tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Roome for a luſty drinker:</hi>
+                     </l>
+                     <l>
+                        <hi>He would ſtop one hole, and make two,</hi>
+                     </l>
+                     <l>
+                        <hi>was not this a iouiall Tinker.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He walked about the Countrey</l>
+                  <l>with Pike-ſtaffe and with Budget:</l>
+                  <l>Full litle would ye wat, when he was drunke as a Rat,</l>
+                  <l>how trimly he would trudge it.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible: missing" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ra ra ring tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Rome for a luſty drinker:</hi>
+                     </l>
+                     <l>
+                        <hi>
+                           <gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e would ſtop one hole, and make two,</hi>
+                     </l>
+                     <l>
+                        <hi>was not this a iouiall Tinker.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>There's none of his profeſſion,</l>
+                  <l>was ere ſo ſkill'd in Mettle:</l>
+                  <l>For he could mende your Frying-pan,</l>
+                  <l>your Skellet, and your Kettle.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Tara ra tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Roome for a luſty drinker:</hi>
+                     </l>
+                     <l>
+                        <hi>He would ſtop one hole and make two,</hi>
+                     </l>
+                     <l>
+                        <hi>was not this a iouiall Tinker,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Hee'd toſſe the iolly Tankard,</l>
+                  <l>the Blacke-pot, and the Pitcher:</l>
+                  <l>No Ale or Beere for him was deere,</l>
+                  <l>to make his Noſe the ritcher.</l>
+                  <l>
+                     <hi>Yet ſtill would he cry</hi>
+                  </l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Tincke, tincke-&amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Hee walked to Fayres and Markets,</l>
+                  <l>to furniſh his red Noſe:</l>
+                  <l>And when he was drunke, would beat his Punck</l>
+                  <l>and make her pawne her Cloathes.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Who was it durſt moleſt him:</l>
+                  <l>his Braſſe did him inuiron;</l>
+                  <l>Sargeants arreſt, yet he was bleſt,</l>
+                  <l>for he was bayld with Iron.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part of the iouiall Tinker.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ANd now this iolly <hi>Tinker,</hi>
+                  </l>
+                  <l>the Country hath forſaken,</l>
+                  <l>And with his Packe vpon his backe,</l>
+                  <l>(to ſee what may be taken)</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>In London he cryes</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Tara ra ring tincke, tincke:</hi>
+                     </l>
+                     <l>
+                        <hi>Roome for a iolly drinker,</hi>
+                     </l>
+                     <l>
+                        <hi>He can ſtop one hole, and make two,</hi>
+                     </l>
+                     <l>
+                        <hi>is not this a iouiall Tinker.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But firſt about the Citty,</l>
+                  <l>this luſty man of Mettle,</l>
+                  <l>Doth cry and call to ſtop a hole,</l>
+                  <l>and Skellet, Pan, or Kettle.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And ſtill would he cry</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Tara ra ring. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I'th <hi>Strand</hi> I ſaw him tincking;</l>
+                  <l>when ſtraight his eyes he raiſed,</l>
+                  <l>The new <hi>Exchange</hi> to him was ſtrange,</l>
+                  <l>on which he ſtood and gazed.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then vp he went,</hi>
+                     </l>
+                     <l>
+                        <hi>with tincke, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>One queſtion'd why he did ſo<g ref="char:punc">▪</g>
+                  </l>
+                  <l>he ſayd, to keepe them waking,</l>
+                  <l>Leaſt they ſhould ſleepe who ſhops did keepe,</l>
+                  <l>they had ſo little taking.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And then away, with</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And as he went downe <hi>Fleet-ſtreete,</hi>
+                  </l>
+                  <l>a Lawyer was offended,</l>
+                  <l>That he ſhould cry ſo loude and hie,</l>
+                  <l>to haue old Kettles mended,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To him this <hi>Tinker</hi> thus replies,</l>
+                  <l>I doe but ply my calling:</l>
+                  <l>And you (ſayd hee) ſome time (like mee)</l>
+                  <l>will keepe as bad a bawling.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And ſtill this man of <hi>Thurbie,</hi>
+                  </l>
+                  <l>that in his trade was grounded:</l>
+                  <l>As he did paſſe from place to place,</l>
+                  <l>his Kettle-drum he ſounded.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For ſtill would he cry,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>In <hi>Cheapſide</hi> then full lightly,</l>
+                  <l>hee beat vpon his Kettle:</l>
+                  <l>Where when the Gold he did behold,</l>
+                  <l>he wiſht it had been ſuch mettle.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And nimbly he cryes</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then meetes he with the <hi>Sow-gelder,</hi>
+                  </l>
+                  <l>the blowes his Horne ſo finely,</l>
+                  <l>(That all about doth cry, <hi>Looke out,</hi>)</l>
+                  <l>and him hee greetes full kindly.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Togeather then, with</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>Tara ra ring tincke, tincke,</hi>
+                     </l>
+                     <l>
+                        <hi>What worke heere, cries the Tinker:</hi>
+                     </l>
+                     <l>
+                        <hi>The Sow-gelder lookt out, lookt out,</hi>
+                     </l>
+                     <l>
+                        <hi>who was as ſound a drinker.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Then to an Alehouſe hie they,</l>
+                  <l>their iouiall humors keeping:</l>
+                  <l>Where tincke, tincke, tincke, fel hard to drinke,</l>
+                  <l>and there I left him ſleeping.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And when he awakt,</hi>
+                     </l>
+                     <l>
+                        <hi>Tincke, tincke, tincke. &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London for <hi>I. Tr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dle.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
